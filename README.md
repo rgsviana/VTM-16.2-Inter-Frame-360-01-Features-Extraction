@@ -1,4 +1,4 @@
-VTM reference software for VVC
+VTM 19.0 - Ramiro - 360 Inter-Frame Acceleration - TZS and AME Features Extraction
 ==============================
 
 This software package is the reference software for Rec. ITU-T H.266 | ISO/IEC 23090-3 Versatile Video Coding (VVC). The reference software includes both encoder and decoder functionality.
